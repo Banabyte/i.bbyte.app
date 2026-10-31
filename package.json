@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@lucide/svelte": "^1.66.0",
-    "croner": "^10.0.1",
+    "croner": "^11.0.0",
     "drizzle-orm": "^1.0.0-rc.5-ab785fc",
     "hjson": "^3.2.2",
     "pg": "^8.23.1",
